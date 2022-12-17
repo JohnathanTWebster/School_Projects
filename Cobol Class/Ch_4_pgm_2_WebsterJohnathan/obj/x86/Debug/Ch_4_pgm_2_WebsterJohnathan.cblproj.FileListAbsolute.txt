@@ -1,0 +1,5 @@
+C:\Users\jtweb\source\repos\COBOL\Ch_4_pgm_2_WebsterJohnathan\bin\x86\Debug\Ch_4_pgm_2_WebsterJohnathan.exe
+C:\Users\jtweb\source\repos\COBOL\Ch_4_pgm_2_WebsterJohnathan\bin\x86\Debug\Program1.idy
+C:\Users\jtweb\source\repos\COBOL\Ch_4_pgm_2_WebsterJohnathan\obj\x86\Debug\Ch_4_pgm_2_WebsterJohnathan.exe
+C:\Users\jtweb\source\repos\COBOL\Ch_4_pgm_2_WebsterJohnathan\obj\x86\Debug\Program1.idy
+C:\Users\jtweb\source\repos\COBOL\Ch_4_pgm_2_WebsterJohnathan\obj\x86\Debug\Program1.obj
