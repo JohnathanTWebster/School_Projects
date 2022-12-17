@@ -1,0 +1,16 @@
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework10.exe
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework10.deps.json
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework10.runtimeconfig.json
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework10.runtimeconfig.dev.json
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework10.dll
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework10.pdb
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework10.csproj.AssemblyReference.cache
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework10.Form1.resources
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework10.csproj.GenerateResource.cache
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework10.AssemblyInfoInputs.cache
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework10.AssemblyInfo.cs
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework10.csproj.CoreCompileInputs.cache
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework10.dll
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework10.pdb
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework10\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework10.genruntimeconfig.cache

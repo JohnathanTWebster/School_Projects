@@ -1,0 +1,96 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="HarryPotterLabel.Text" xml:space="preserve">
+    <value>After murdering Harry's parents, James
+and Lily Potter, evil Lord Voldemort puts
+a killing curse on Harry, then just a baby.
+The curse inexplicably reverses, defeating
+Voldemort and searing a lightning-bolt
+scar in the middle of the infant's forehead. 
+Harry is then left at the doorstep of his boring 
+but brutish aunt and uncle, the Dursleys.</value>
+  </data>
+  <data name="GameOfThronesLabel.Text" xml:space="preserve">
+    <value>A Game of Thrones follows three principal storylines
+as they develop in tandem with one another.
+The most storylines begin in the year 298 AC
+(After Conquest),
+whilst the prologue takes place in 297 AC.
+The story continues for many months, until 299 AC.</value>
+  </data>
+  <data name="StarWarsLabel.Text" xml:space="preserve">
+    <value>Set 32 years before the original trilogy, during the era of the Galactic Republic,
+the plot follows Jedi Master Qui-Gon Jinn and his apprentice Obi-Wan Kenobi
+as they try to protect Queen Padmé Amidala of Naboo in hopes of securing a 
+peaceful end to an interplanetary trade dispute.</value>
+  </data>
+  <data name="JavaProgrammingLabel.Text" xml:space="preserve">
+    <value>Fully updated for Java SE 17, Java™: The Complete Reference, 
+welfth Edition explains how to develop, compile, debug, and run Java programs.
+Best-selling programming author Herb Schildt covers the entire Java language,
+including its syntax, keywords, and fundamental programming principles.</value>
+  </data>
+  <data name="CProgrammingLabel.Text" xml:space="preserve">
+    <value>The authors present the complete guide to ANSI standard C language programming. 
+Written by the developers of C, this new version helps readers keep up with the finalized
+ANSI standard for C while showing how to take advantage of C's rich set of operators, 
+economy of expression, improved control flow, and data structures.</value>
+  </data>
+</root>
