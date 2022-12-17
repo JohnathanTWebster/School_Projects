@@ -1,7 +1,0 @@
-C:\Users\jtweb\source\repos\Homework_1\bin\Debug\Homework_1.exe.config
-C:\Users\jtweb\source\repos\Homework_1\bin\Debug\Homework_1.exe
-C:\Users\jtweb\source\repos\Homework_1\bin\Debug\Homework_1.pdb
-C:\Users\jtweb\source\repos\Homework_1\obj\Debug\Homework_1.csproj.AssemblyReference.cache
-C:\Users\jtweb\source\repos\Homework_1\obj\Debug\Homework_1.csproj.CoreCompileInputs.cache
-C:\Users\jtweb\source\repos\Homework_1\obj\Debug\Homework_1.exe
-C:\Users\jtweb\source\repos\Homework_1\obj\Debug\Homework_1.pdb
