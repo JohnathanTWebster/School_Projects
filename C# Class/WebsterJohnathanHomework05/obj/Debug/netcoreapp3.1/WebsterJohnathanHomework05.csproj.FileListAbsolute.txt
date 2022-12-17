@@ -1,0 +1,16 @@
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework05.exe
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework05.deps.json
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework05.runtimeconfig.json
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework05.runtimeconfig.dev.json
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework05.dll
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework05.pdb
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework05.csproj.AssemblyReference.cache
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework05.Form1.resources
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework05.csproj.GenerateResource.cache
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework05.AssemblyInfoInputs.cache
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework05.AssemblyInfo.cs
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework05.csproj.CoreCompileInputs.cache
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework05.dll
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework05.pdb
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework05\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework05.genruntimeconfig.cache

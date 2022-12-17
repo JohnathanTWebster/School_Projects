@@ -1,0 +1,14 @@
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework08.exe
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework08.deps.json
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework08.runtimeconfig.json
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework08.runtimeconfig.dev.json
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework08.dll
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework08.pdb
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework08.csproj.AssemblyReference.cache
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework08.AssemblyInfoInputs.cache
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework08.AssemblyInfo.cs
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework08.csproj.CoreCompileInputs.cache
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework08.dll
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework08.pdb
+C:\Users\jtweb\OneDrive\School Work\source\repos\C# class\WebsterJohnathanHomework08\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework08.genruntimeconfig.cache

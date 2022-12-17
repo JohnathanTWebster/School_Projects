@@ -1,0 +1,7 @@
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework7\bin\Debug\WebsterJohnathanHomework7.exe.config
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework7\bin\Debug\WebsterJohnathanHomework7.exe
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework7\bin\Debug\WebsterJohnathanHomework7.pdb
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework7\obj\Debug\WebsterJohnathanHomework7.csproj.AssemblyReference.cache
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework7\obj\Debug\WebsterJohnathanHomework7.csproj.CoreCompileInputs.cache
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework7\obj\Debug\WebsterJohnathanHomework7.exe
+C:\Users\jtweb\source\repos\WebsterJohnathanHomework7\obj\Debug\WebsterJohnathanHomework7.pdb
