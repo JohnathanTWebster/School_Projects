@@ -1,0 +1,16 @@
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework03.exe
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework03.deps.json
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework03.runtimeconfig.json
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework03.runtimeconfig.dev.json
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework03.dll
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\bin\Debug\netcoreapp3.1\WebsterJohnathanHomework03.pdb
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework03.csproj.AssemblyReference.cache
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework03.Form1.resources
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework03.csproj.GenerateResource.cache
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework03.AssemblyInfoInputs.cache
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework03.AssemblyInfo.cs
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework03.csproj.CoreCompileInputs.cache
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework03.dll
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework03.pdb
+C:\Users\jtweb\source\repos\C# class\WebsterJohnathanHomework03\obj\Debug\netcoreapp3.1\WebsterJohnathanHomework03.genruntimeconfig.cache

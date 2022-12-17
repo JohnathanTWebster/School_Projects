@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebsterJohnathanHomework03/1.0.0": {
+        "runtime": {
+          "WebsterJohnathanHomework03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebsterJohnathanHomework03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
